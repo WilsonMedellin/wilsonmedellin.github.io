@@ -56,6 +56,12 @@ Hero Slider - by CodyHouse.co
   margin: 13px 0 0 5%;
 }
 
+#logo {
+  height: 70%;
+  position: absolute;
+}
+
+
 .cd-header__logo img {
   display: block;
 }
